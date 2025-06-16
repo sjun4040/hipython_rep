@@ -174,7 +174,7 @@ cython_debug/
 .pypirc
 *.jpg
 *.jpeg
-.png
-.csv
-.pickle
-.tsv
+*.png
+*.csv
+*.pickle
+*.tsv
