@@ -180,3 +180,4 @@ cython_debug/
 *.tsv
 *.json
 *.txt
+*.xls
