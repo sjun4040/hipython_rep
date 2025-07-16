@@ -181,3 +181,4 @@ cython_debug/
 *.json
 *.txt
 *.xls
+*.dot
